@@ -1,4 +1,4 @@
-file=open('abc.txt')
+file=open('a.txt')
 for s in file:
     s1=" "
     for ch in s:

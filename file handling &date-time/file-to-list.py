@@ -1,4 +1,4 @@
-f=open('abc.txt','r')
+f=open('a.txt','r')
 l=list()
 for s in f:
     l.append(s)

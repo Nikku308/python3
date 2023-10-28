@@ -1,4 +1,4 @@
-file=open('abc.txt')
+file=open('a.txt')
 lines=0
 words=0
 char=0
